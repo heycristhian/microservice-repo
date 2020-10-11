@@ -1,1 +1,1 @@
-spring.data.mongodb.uri=mongodb://localhost:27017/fitness
+spring.data.mongodb.uri=mongodb://localhost:27017/provider
